@@ -10,3 +10,6 @@ La matrix 8x8 la use para los smiles y para las imagenes.
 La pantalla LCD la use para el texto de felicitaciones.
 
 Un zumbador para el villancico y listo :D
+
+
+https://www.youtube.com/playlist?list=PLYC3aUcRPxBY5UQtSpROzEGiHHeJ9_ToC
