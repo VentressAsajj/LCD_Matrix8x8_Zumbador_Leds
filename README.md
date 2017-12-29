@@ -11,7 +11,7 @@ La pantalla LCD la use para el texto de felicitaciones.
 
 Un zumbador para el villancico y listo :D
 Imagenes del proyecto:
-<img src="img/IMG_0416.jpg" />
+<img src="img/IMG_0416.jpg" /><p>
 Video del proyecto:
 https://www.youtube.com/watch?v=_y2w2w80eO0&index=14&list=PLYC3aUcRPxBY5UQtSpROzEGiHHeJ9_ToC
 
